@@ -1,0 +1,206 @@
+{
+    "info": {
+      "name": "charname",
+      "activeskill": "None",
+      "level": 1,
+      "gold": 0,
+      "maxhp": "",
+      "currenthp": "",
+      "seed": "2021-12-08 00:02:52.039604+00:00"
+    },
+    "attributes": {
+      "strength": {
+        "level": 1
+      },
+      "dexterity": {
+        "level": 1
+      },
+      "intelligence": {
+        "level": 1
+      },
+      "endurance": {
+        "level": 1
+      },
+      "agility": {
+        "level": 1
+      },
+      "speed": {
+        "level": 1
+      },
+      "charisma": {
+        "level": 1
+      },
+      "luck": {
+        "level": 1
+      },
+      "willpower": {
+        "level": 1
+      },
+      "faith": {
+        "level": 1
+      }
+    },
+    "skills": {
+      "offense": {
+        "sword": {
+          "level": 1,
+          "xp": 0
+        },
+        "blunt": {
+          "level": 1,
+          "xp": 0
+        },
+        "knife": {
+          "level": 1,
+          "xp": 0
+        },
+        "spear": {
+          "level": 1,
+          "xp": 0
+        },
+        "bow": {
+          "level": 1,
+          "xp": 0
+        },
+        "crossbow": {
+          "level": 1,
+          "xp": 0
+        },
+        "unarmed": {
+          "level": 1,
+          "xp": 0
+        },
+        "dualwield": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "defense": {
+        "unarmored": {
+          "level": 1,
+          "xp": 0
+        },
+        "light": {
+          "level": 1,
+          "xp": 0
+        },
+        "medium": {
+          "level": 1,
+          "xp": 0
+        },
+        "heavy": {
+          "level": 1,
+          "xp": 0
+        },
+        "shield": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "magic": {
+        "abjuration": {
+          "level": 1,
+          "xp": 0
+        },
+        "conjuration": {
+          "level": 1,
+          "xp": 0
+        },
+        "divination": {
+          "level": 1,
+          "xp": 0
+        },
+        "enchantment": {
+          "level": 1,
+          "xp": 0
+        },
+        "evocation": {
+          "level": 1,
+          "xp": 0
+        },
+        "illusion": {
+          "level": 1,
+          "xp": 0
+        },
+        "necromancy": {
+          "level": 1,
+          "xp": 0
+        },
+        "transmutation": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "crafts": {
+        "begging": {
+          "level": 1,
+          "xp": 0
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "stealth": {
+          "level": 1,
+          "xp": 0
+        },
+        "bartering": {
+          "level": 1,
+          "xp": 0
+        },
+        "carpentry": {
+          "level": 1,
+          "xp": 0
+        },
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "smithing": {
+          "level": 1,
+          "xp": 0
+        },
+        "farming": {
+          "level": 1,
+          "xp": 0
+        },
+        "cooking": {
+          "level": 1,
+          "xp": 0
+        },
+        "performance": {
+          "level": 1,
+          "xp": 0
+        },
+        "fletching": {
+          "level": 1,
+          "xp": 0
+        },
+        "alchemy": {
+          "level": 1,
+          "xp": 0
+        },
+        "woodcutting": {
+          "level": 1,
+          "xp": 0
+        },
+        "firstaid": {
+          "level": 1,
+          "xp": 0
+        }
+      }
+    },
+    "equipment": {
+      "mainhand": {},
+      "offhand": {},
+      "head": {},
+      "torso": {},
+      "legs": {},
+      "hands": {},
+      "feet": {}
+    },
+    "inventory": {
+      "items": {
+      }
+    }
+  }
