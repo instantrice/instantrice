@@ -4,10 +4,8 @@
 # and credit to Rob Herman for teaching me how it works
 
 import copy
-from ctypes import alignment
 import datetime
 import json
-from re import L
 import sys
 import tkinter as tk
 import ntplib
