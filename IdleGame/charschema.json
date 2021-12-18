@@ -110,7 +110,7 @@
     "ring1": 0,
     "ring2": 0
   },
-  "inventory": [
-    "0:0"
-  ]
+  "inventory": {
+    "0": 0
+  }
 }
