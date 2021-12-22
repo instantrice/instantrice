@@ -1,0 +1,96 @@
+{
+  "0": {
+    "name": "Nothing",
+    "value": 0,
+    "slot": "all",
+    "image": "0.png"
+  },
+  "1": {
+    "name": "Wooden Training Sword",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "swordxp",
+    "xprate": 1.2,
+    "damage": 0.5,
+    "rate": 1,
+    "image": "1.png"
+  },
+  "2": {
+    "name": "Wooden Training Club",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "bluntxp",
+    "xprate": 1.2,
+    "damage": 0.5,
+    "rate": 1,
+    "image": "2.png"
+  },
+  "3": {
+    "name": "Wooden Training Spear",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "spearxp",
+    "xprate": 1.2,
+    "damage": 0.5,
+    "rate": 1,
+    "image": "3.png"
+  },
+  "4": {
+    "name": "Wooden Training Knife",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "knifexp",
+    "xprate": 1.2,
+    "damage": 0.5,
+    "rate": 1,
+    "image": "4.png"
+  },
+  "5": {
+    "name": "Tin Sword",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "swordxp",
+    "xprate": 1,
+    "damage": 0.75,
+    "rate": 1,
+    "image": "1.png"
+  },
+  "6": {
+    "name": "Tin Club",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "bluntxp",
+    "xprate": 1,
+    "damage": 0.75,
+    "rate": 1,
+    "image": "2.png"
+  },
+  "7": {
+    "name": "Tin Spear",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "spearxp",
+    "xprate": 1,
+    "damage": 0.75,
+    "rate": 1,
+    "image": "3.png"
+  },
+  "8": {
+    "name": "Tin Knife",
+    "value": 5,
+    "slot": "MH, OH",
+    "crit": 0,
+    "skill": "knifexp",
+    "xprate": 1,
+    "damage": 0.75,
+    "rate": 1,
+    "image": "4.png"
+  }
+}
